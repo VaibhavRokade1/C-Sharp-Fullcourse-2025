@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "V:\\.NET Full Course -2025\\OOP\u0027s In C Sharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7EBAE6-6063-4166-B118-2DA487BB6D2E}|OOP\u0027s In C Sharp.csproj|v:\\.net full course -2025\\oop\u0027s in c sharp\\encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7EBAE6-6063-4166-B118-2DA487BB6D2E}|OOP\u0027s In C Sharp.csproj|solutionrelative:encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7EBAE6-6063-4166-B118-2DA487BB6D2E}|OOP\u0027s In C Sharp.csproj|V:\\.NET Full Course -2025\\OOP\u0027s In C Sharp\\objectcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7EBAE6-6063-4166-B118-2DA487BB6D2E}|OOP\u0027s In C Sharp.csproj|solutionrelative:objectcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7EBAE6-6063-4166-B118-2DA487BB6D2E}|OOP\u0027s In C Sharp.csproj|V:\\.NET Full Course -2025\\OOP\u0027s In C Sharp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7EBAE6-6063-4166-B118-2DA487BB6D2E}|OOP\u0027s In C Sharp.csproj|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 139,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 400,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Encapsulation.cs",
+              "DocumentMoniker": "V:\\.NET Full Course -2025\\OOP\u0027s In C Sharp\\Encapsulation.cs",
+              "RelativeDocumentMoniker": "Encapsulation.cs",
+              "ToolTip": "V:\\.NET Full Course -2025\\OOP\u0027s In C Sharp\\Encapsulation.cs",
+              "RelativeToolTip": "Encapsulation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:01:47.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObjectCreation.cs",
+              "DocumentMoniker": "V:\\.NET Full Course -2025\\OOP\u0027s In C Sharp\\ObjectCreation.cs",
+              "RelativeDocumentMoniker": "ObjectCreation.cs",
+              "ToolTip": "V:\\.NET Full Course -2025\\OOP\u0027s In C Sharp\\ObjectCreation.cs",
+              "RelativeToolTip": "ObjectCreation.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T19:55:51.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "V:\\.NET Full Course -2025\\OOP\u0027s In C Sharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "V:\\.NET Full Course -2025\\OOP\u0027s In C Sharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T19:52:42.824Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 143,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

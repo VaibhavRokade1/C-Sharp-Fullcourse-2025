@@ -1,0 +1,8 @@
+V:\.NET Full Course -2025\OOP's In C Sharp\bin\Debug\OOP's In C Sharp.exe.config
+V:\.NET Full Course -2025\OOP's In C Sharp\bin\Debug\OOP's In C Sharp.exe
+V:\.NET Full Course -2025\OOP's In C Sharp\bin\Debug\OOP's In C Sharp.pdb
+V:\.NET Full Course -2025\OOP's In C Sharp\obj\Debug\OOP's In C Sharp.csproj.AssemblyReference.cache
+V:\.NET Full Course -2025\OOP's In C Sharp\obj\Debug\OOP's In C Sharp.csproj.CoreCompileInputs.cache
+V:\.NET Full Course -2025\OOP's In C Sharp\obj\Debug\OOP's In C Sharp.exe
+V:\.NET Full Course -2025\OOP's In C Sharp\obj\Debug\OOP's In C Sharp.pdb
+V:\.NET Full Course -2025\OOP's In C Sharp\obj\Debug\OOP's In C Sharp.exe.config
