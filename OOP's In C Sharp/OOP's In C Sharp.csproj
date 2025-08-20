@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>OOP_s_In_C_Sharp.Encapsulation</StartupObject>
+    <StartupObject>OOP_s_In_C_Sharp.ConsoleProject01.LibraryManagementSystem</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -61,10 +61,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Encapsulation.cs" />
-    <Compile Include="ObjectCreation.cs" />
+    <Compile Include="ConsoleProject01\LibraryManagementSystem.cs" />
+    <Compile Include="Encapsulatation\Datahiding.cs" />
+    <Compile Include="Encapsulatation\Encapsulation.cs" />
+    <Compile Include="Basic_of_Object\ObjectCreation.cs" />
+    <Compile Include="Inheritance\BasicOfInheritance.cs" />
+    <Compile Include="Inheritance\MyInheritance.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="String&amp;StringBuilder.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -1,0 +1,9 @@
+# Ignore Visual Studio cache
+.vs/
+*.vsidx
+
+# Build output
+bin/
+obj/
+Debug/
+Release/
