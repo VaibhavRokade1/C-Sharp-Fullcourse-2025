@@ -47,8 +47,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <!-- Choose ONE StartupObject. Adjust if needed -->
   <PropertyGroup>
-    <StartupObject>OOP_s_In_C_Sharp.Inheritance.MultiLevelInheritance</StartupObject>
+    <StartupObject>OOP_s_In_C_Sharp.ArrayinC_._2DArrayinCSharp</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -62,14 +63,27 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Abstraction\Abstraction_Basic.cs" />
+    <Compile Include="ArrayinC#\2DArrayinCSharp.cs" />
+    <Compile Include="ArrayinC#\RefeenceArray.cs" />
+    <Compile Include="ArrayinC#\Array&amp;Generics.cs" />
+    <Compile Include="ArrayinC#\ArrayDeclearation.cs" />
+    <Compile Include="ArrayinC#\ForEachLoopInArray.cs" />
+    <Compile Include="ArrayinC#\GenericInC#.cs" />
+    <Compile Include="ArrayinC#\GenericsClassinCsharp.cs" />
+    <Compile Include="ArrayinC#\GenericSorting.cs" />
+    <Compile Include="BaseKeyword.cs" />
     <Compile Include="ConsoleProject01\LibraryManagementSystem.cs" />
     <Compile Include="Encapsulatation\Datahiding.cs" />
     <Compile Include="Encapsulatation\Encapsulation.cs" />
     <Compile Include="Basic_of_Object\ObjectCreation.cs" />
     <Compile Include="Inheritance\BasicOfInheritance.cs" />
+    <Compile Include="Inheritance\HierarchicalInheritance.cs" />
     <Compile Include="Inheritance\MultiLevelInheritance.cs" />
+    <Compile Include="Inheritance\MultipleInheritance.cs" />
     <Compile Include="Inheritance\MyInheritance.cs" />
     <Compile Include="Inheritance\SingleInheritance.cs" />
+    <Compile Include="Polymorephism\MethodOverLoading.cs" />
+    <Compile Include="Polymorephism\Polymorephism_Basics.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="String&amp;StringBuilder.cs" />
