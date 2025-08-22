@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{9A7EBAE6-6063-4166-B118-2DA487BB6D2E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>OOP_s_In_C_Sharp</RootNamespace>
-    <AssemblyName>OOP%27s In C Sharp</AssemblyName>
+    <RootNamespace>OOPsInCSharp</RootNamespace>
+    <AssemblyName>OOPsInCSharp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -23,7 +23,7 @@
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
     <ApplicationRevision>0</ApplicationRevision>
-    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <ApplicationVersion>1.0.0.*</ApplicationVersion>
     <IsWebBootstrapper>false</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
@@ -47,8 +47,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <!-- Set ONE valid Startup Object -->
   <PropertyGroup>
-    <StartupObject>OOP_s_In_C_Sharp.Inheritance.MultiLevelInheritance</StartupObject>
+    <StartupObject>OOPsInCSharp.Linq_in_C_.SelectMethod</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -61,15 +62,44 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="01Project-00Ps\Controller\EmpContoller.cs" />
+    <Compile Include="01Project-00Ps\Models\Department.cs" />
+    <Compile Include="01Project-00Ps\Models\Employee.cs" />
+    <Compile Include="01Project-00Ps\Project_01_Program.cs" />
+    <Compile Include="01Project-00Ps\Services\Defination\Definations.cs" />
+    <Compile Include="01Project-00Ps\Services\Implementation\EmployeeServices.cs" />
+    <Compile Include="02Project-Category &amp; Product Manegement\Controller\AppController.cs" />
+    <Compile Include="02Project-Category &amp; Product Manegement\Models\Category.cs" />
+    <Compile Include="02Project-Category &amp; Product Manegement\Models\Product.cs" />
+    <Compile Include="02Project-Category &amp; Product Manegement\Services\Defination\IServices.cs" />
+    <Compile Include="02Project-Category &amp; Product Manegement\Services\Implimentation\Services.cs" />
+    <Compile Include="Abstraction\AbstractClass.cs" />
     <Compile Include="Abstraction\Abstraction_Basic.cs" />
+    <Compile Include="Abstraction\AbstractMethods.cs" />
+    <Compile Include="ArrayinC#\2DArrayinCSharp.cs" />
+    <Compile Include="ArrayinC#\RefeenceArray.cs" />
+    <Compile Include="ArrayinC#\Array&amp;Generics.cs" />
+    <Compile Include="ArrayinC#\ArrayDeclearation.cs" />
+    <Compile Include="ArrayinC#\ForEachLoopInArray.cs" />
+    <Compile Include="ArrayinC#\GenericInC#.cs" />
+    <Compile Include="ArrayinC#\GenericsClassinCsharp.cs" />
+    <Compile Include="ArrayinC#\GenericSorting.cs" />
+    <Compile Include="BaseKeyword.cs" />
     <Compile Include="ConsoleProject01\LibraryManagementSystem.cs" />
     <Compile Include="Encapsulatation\Datahiding.cs" />
     <Compile Include="Encapsulatation\Encapsulation.cs" />
     <Compile Include="Basic_of_Object\ObjectCreation.cs" />
     <Compile Include="Inheritance\BasicOfInheritance.cs" />
+    <Compile Include="Inheritance\HierarchicalInheritance.cs" />
     <Compile Include="Inheritance\MultiLevelInheritance.cs" />
+    <Compile Include="Inheritance\MultipleInheritance.cs" />
     <Compile Include="Inheritance\MyInheritance.cs" />
     <Compile Include="Inheritance\SingleInheritance.cs" />
+    <Compile Include="Linq in C#\SelectMethod.cs" />
+    <Compile Include="Polymorephism\MethodOverLoading.cs" />
+    <Compile Include="Polymorephism\Methodoverriding.cs" />
+    <Compile Include="Polymorephism\Polymorephism_Basics.cs" />
+    <Compile Include="Polymorephism\Questions\OverridingQustion1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="String&amp;StringBuilder.cs" />
@@ -81,7 +111,7 @@
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
       <Visible>False</Visible>
-      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <ProductName>Microsoft .NET Framework 4.7.2 (x86 and x64)</ProductName>
       <Install>true</Install>
     </BootstrapperPackage>
     <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
@@ -90,5 +120,6 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
