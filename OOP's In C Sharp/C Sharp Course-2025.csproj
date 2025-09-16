@@ -49,7 +49,7 @@
   </PropertyGroup>
   <!-- Set ONE valid Startup Object -->
   <PropertyGroup>
-    <StartupObject>OOPsInCSharp.Linq_in_C_.SelectMethod</StartupObject>
+    <StartupObject>OOP_s_In_C_Sharp.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -85,10 +85,13 @@
     <Compile Include="ArrayinC#\GenericsClassinCsharp.cs" />
     <Compile Include="ArrayinC#\GenericSorting.cs" />
     <Compile Include="BaseKeyword.cs" />
+    <Compile Include="Collections\SortedSet.cs" />
     <Compile Include="ConsoleProject01\LibraryManagementSystem.cs" />
     <Compile Include="Encapsulatation\Datahiding.cs" />
     <Compile Include="Encapsulatation\Encapsulation.cs" />
     <Compile Include="Basic_of_Object\ObjectCreation.cs" />
+    <Compile Include="ExceptionHandling\HandleTryCatch.cs" />
+    <Compile Include="File Handling\FileClass.cs" />
     <Compile Include="Inheritance\BasicOfInheritance.cs" />
     <Compile Include="Inheritance\HierarchicalInheritance.cs" />
     <Compile Include="Inheritance\MultiLevelInheritance.cs" />
@@ -96,10 +99,13 @@
     <Compile Include="Inheritance\MyInheritance.cs" />
     <Compile Include="Inheritance\SingleInheritance.cs" />
     <Compile Include="Linq in C#\SelectMethod.cs" />
+    <Compile Include="Linq in C#\TakSkipMethods.cs" />
+    <Compile Include="Linq in C#\WhereMethod.cs" />
     <Compile Include="Polymorephism\MethodOverLoading.cs" />
     <Compile Include="Polymorephism\Methodoverriding.cs" />
     <Compile Include="Polymorephism\Polymorephism_Basics.cs" />
     <Compile Include="Polymorephism\Questions\OverridingQustion1.cs" />
+    <Compile Include="Design Pattern\Singleton.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="String&amp;StringBuilder.cs" />
