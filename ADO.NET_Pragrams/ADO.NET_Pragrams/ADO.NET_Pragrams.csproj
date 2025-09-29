@@ -47,9 +47,12 @@
     <Compile Include="Models\Employee.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< HEAD
     <Compile Include="Services\EmployeeServices\Defination\IEmployeeDefination.cs" />
     <Compile Include="Services\EmployeeServices\Implimentation\EmployeeServices.cs" />
     <Compile Include="Utility\utilitys.cs" />
+=======
+>>>>>>> f01a7be6615eeeffd0c520cc11199f1183bf0d47
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
