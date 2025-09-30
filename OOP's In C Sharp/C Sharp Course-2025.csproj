@@ -49,7 +49,7 @@
   </PropertyGroup>
   <!-- Set ONE valid Startup Object -->
   <PropertyGroup>
-    <StartupObject>OOPsInCSharp.Linq_in_C_.SelectMethod</StartupObject>
+    <StartupObject>OOP_s_In_C_Sharp.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -85,6 +85,7 @@
     <Compile Include="ArrayinC#\GenericsClassinCsharp.cs" />
     <Compile Include="ArrayinC#\GenericSorting.cs" />
     <Compile Include="BaseKeyword.cs" />
+    <Compile Include="Collections\ArrayList.cs" />
     <Compile Include="Collections\SortedSet.cs" />
     <Compile Include="ConsoleProject01\LibraryManagementSystem.cs" />
     <Compile Include="Encapsulatation\Datahiding.cs" />

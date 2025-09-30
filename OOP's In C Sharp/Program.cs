@@ -1,7 +1,9 @@
 ﻿using OOP_s_In_C_Sharp.Polymorephism;
+using OOPsInCSharp.Collections;
 using OOPsInCSharp.File_Handling;
 using System;
 using System.CodeDom;
+using System.Collections;
 using System.Data;
 using System.Runtime.InteropServices;
 namespace OOP_s_In_C_Sharp
@@ -12,7 +14,8 @@ namespace OOP_s_In_C_Sharp
        
         public static void Main(String[] args) 
         {
-              
+            ArrayListcl.ArrayListClass();
+            
         }
     
     }
